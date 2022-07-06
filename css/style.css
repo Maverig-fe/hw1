@@ -1,0 +1,59 @@
+a{
+    text-decoration: none;
+}
+
+h1{
+    background: bisque;
+}
+
+.simpsons{
+    width: 200px;
+}
+
+.about {
+    color: red;
+}
+
+h2{
+    background: #7fa859;
+}
+
+.homer-img{
+    width: 250px;
+}
+
+.text-homer{
+    color: darkmagenta;
+}
+
+.list-homer{
+    background: blue;
+}
+
+.bart-title{
+    background: darkorange;
+}
+
+.bart-img{
+    width: 350px;
+}
+
+.bart-text{
+    color: fuchsia;
+}
+
+.lisa-title{
+    background: #e1b712;
+}
+
+.bart-list{
+    background: darkred;
+}
+
+.lisa-img{
+    width: 400px;
+}
+
+.lisa-list{
+    color: coral;
+}
